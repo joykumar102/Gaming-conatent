@@ -1,0 +1,82 @@
+/* navbar styels start */
+.Gamer{
+    color: rgba(249, 72, 178, 1);
+    margin-left: 5px;
+}
+.navbar{
+    max-width: 1140px;
+    margin: 0 auto;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.05);
+}
+.nav-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    /* color: rgba(249, 72, 178, 1);
+    color: rgba(135, 88, 241, 1);  */
+}
+.nav-right{
+    
+}
+.nav-btn{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.follow{
+    background-color: rgba(11, 2, 35, 0.1);
+    padding: 8px 15px;
+    border-radius: 8px;
+   
+}
+/* header section start */
+.header-main{
+   border: 2px solid red;
+   display: flex;
+   max-width: 1140px;
+   margin: 0 auto;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+.header-left{
+    border: 2px solid red;
+    width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.goat{
+    font-size: 55px;
+    background-color: aqua;
+    background-clip: text;
+    color: transparent;
+   
+}
+.header-right{
+    border: 2px solid red;
+    width: 50%;
+}
+.header-right img{
+    width: 100%;
+}
+.header-btn1{
+    background-color: rgba(255, 66, 165, 1);
+    padding: 15px 25px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+.header-btn2{
+    background-color: rgba(78, 197, 247, 1);
+    padding: 15px 25px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
